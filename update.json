@@ -1,1 +1,1 @@
-{"version":"1.0.1","url":"https://github.com/danielyjart-dotcom/kongpdf-release/releases/download/v1.0.1/KongPDF_Setup_1.0.1.exe","sha256":"79145208759c480e9b0300b0ceca69b0e31ae9fe4a3b1cb28afa676ecb2f3b69","size":5703893,"notes":"Update test release. No functional changes from 1.0.0."}
+{"version":"1.0.2","url":"https://github.com/danielyjart-dotcom/kongpdf-release/releases/download/v1.0.2/KongPDF_Setup_1.0.2.exe","sha256":"08d7c6e545fc2eb5fd6676bb46083c1016670396dad1f6071d1e7083d71e547b","size":5702399,"notes":"Starts maximized. No console window."}
