@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.0",
-    "url":  "https://github.com/danielyjart-dotcom/kongpdf-release/releases/download/v1.1.0/KongPDF_Setup_1.1.0.exe",
-    "sha256":  "277c60c9a54287b50073d34b64c0b9dabb57c9dd58ef4d7cb3317230cc4bbce2",
-    "size":  5744036,
-    "notes":  "전체 화면(F11)을 추가했습니다. 화면 언어를 한국어, 영어, 중국어, 일본어, 러시아어, 아랍어 가운데에서 고를 수 있습니다. 아랍어에서는 화면 배치가 오른쪽에서 왼쪽으로 바뀝니다. 설치 프로그램도 여섯 언어로 나옵니다."
+    "version":  "1.1.1",
+    "url":  "https://github.com/danielyjart-dotcom/kongpdf-release/releases/download/v1.1.1/KongPDF_Setup_1.1.1.exe",
+    "sha256":  "a7b15510c53599e94c3ea384e980fed19af7e2cbaa31a182820de22051341704",
+    "size":  5743839,
+    "notes":  "전체 화면을 발표용으로 바꿨습니다. 쪽 하나가 화면을 가득 채우고, 휠이나 화살표 키를 한 번 누르면 다음 쪽으로 넘어갑니다. 오른쪽 끝의 가는 막대로 문서 안의 위치를 볼 수 있습니다."
 }
