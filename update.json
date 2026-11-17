@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.1",
-    "url":  "https://github.com/danielyjart-dotcom/kongpdf-release/releases/download/v1.1.1/KongPDF_Setup_1.1.1.exe",
-    "sha256":  "a7b15510c53599e94c3ea384e980fed19af7e2cbaa31a182820de22051341704",
-    "size":  5743839,
-    "notes":  "전체 화면을 발표용으로 바꿨습니다. 쪽 하나가 화면을 가득 채우고, 휠이나 화살표 키를 한 번 누르면 다음 쪽으로 넘어갑니다. 오른쪽 끝의 가는 막대로 문서 안의 위치를 볼 수 있습니다."
+    "version":  "1.1.2",
+    "url":  "https://github.com/danielyjart-dotcom/kongpdf-release/releases/download/v1.1.2/KongPDF_Setup_1.1.2.exe",
+    "sha256":  "3d0d85bf2ca9dba74a376908102d0486c885c46b82d90a35d45bdb1655a68cca",
+    "size":  5747174,
+    "notes":  "업데이트 창과 알림 창에서 글의 마지막 줄이 잘리던 문제와, 낱말 가운데에서 줄이 바뀌던 문제를 고쳤습니다."
 }
